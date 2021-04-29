@@ -58,7 +58,7 @@ wordpress-web1tf.internal.sandbox.datagov.us
 
 
 [v2:children]
-catalog-next-fgdc2iso
+catalog-fgdc2iso
 catalog-next
 inventory-next
 dashboard-web
