@@ -56,7 +56,6 @@ wordpress-web1tf.internal.sandbox.datagov.us
 # datagov-infrastructure-live, but until then, we still want to keep these
 # hosts in the inventory to receive OS updates.
 
-
 [v2:children]
 catalog-fgdc2iso
 catalog-next
